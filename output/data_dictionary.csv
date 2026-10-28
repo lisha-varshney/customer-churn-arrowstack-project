@@ -1,0 +1,11 @@
+dtype,missing,unique,example
+str,0,7043,7590-VHVEG
+str,0,2,Female
+int64,0,2,0
+str,0,2,Yes
+str,0,2,No
+int64,0,73,1
+str,0,2,No
+str,0,3,No phone service
+str,0,3,DSL
+str,0,3,No
